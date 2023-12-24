@@ -1,0 +1,1 @@
+# Image-Captioning-and-Q-A-using-Mixtral-8x7B-and-LangChain
